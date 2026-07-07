@@ -1,0 +1,41 @@
+NORTH_WIND = "north"
+EAST_WIND = "east"
+SOUTH_WIND = "south"
+WEST_WIND = "west"
+
+RED_DRAGON = "red"
+GREEN_DRAGON = "green"
+WHITE_DRAGON = "white"
+
+WINDS = [NORTH_WIND, EAST_WIND, SOUTH_WIND, WEST_WIND]
+DRAGONS = [RED_DRAGON, GREEN_DRAGON, WHITE_DRAGON]
+
+BAM_1 = "bam_1"
+BAM_2 = "bam_2"
+BAM_3 = "bam_3"
+BAM_4 = "bam_4"
+BAM_5 = "bam_5"
+BAM_6 = "bam_6"
+BAM_7 = "bam_7"
+BAM_8 = "bam_8"
+BAM_9 = "bam_9"
+
+CIR_1 = "cir_1"
+CIR_2 = "cir_2"
+CIR_3 = "cir_3"
+CIR_4 = "cir_4"
+CIR_5 = "cir_5"
+CIR_6 = "cir_6"
+CIR_7 = "cir_7"
+CIR_8 = "cir_8"
+CIR_9 = "cir_9"
+
+WAN_1 = "wan_1"
+WAN_2 = "wan_2"
+WAN_3 = "wan_3"
+WAN_4 = "wan_4"
+WAN_5 = "wan_5"
+WAN_6 = "wan_6"
+WAN_7 = "wan_7"
+WAN_8 = "wan_8"
+WAN_9 = "wan_9"
